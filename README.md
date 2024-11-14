@@ -21,12 +21,12 @@ Follow these steps to set up and run the FoodFlex project:
    Unzip the folder downloaded from GitHub.
 
 3. Set up the database:
-   -> Inside the project folder, you will find a SQL script for the database named cms.
-   -> Open MySQL Workbench and execute the script to create the required database and tables.
+   (i)  Inside the project folder, you will find a SQL script for the database named cms.
+   (ii) Open MySQL Workbench and execute the script to create the required database and tables.
 
 4. Configure the project in NetBeans:
-   -> Open NetBeans and load the project.
-   -> Copy the three SQL connector files provided in the project and paste them into the Libraries folder of the project.
+   (i)  Open NetBeans and load the project.
+   (ii) Copy the three SQL connector files provided in the project and paste them into the Libraries folder of the project.
 
 5. Run the project:
    The project is now set up and ready to run. Simply run the project in NetBeans to start the application.
